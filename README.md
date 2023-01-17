@@ -1,4 +1,4 @@
-# PA001_House_Rocket_Insights
+# House Rocket Insights (Deliverable 01 - dnc.group)
 Os objetivos desse projeto de Ciência de Dados são: 
 
 - Realizar a Análise Exploratória de Dados dos imóveis disponíveis em King County, Washington, EUA, através do conjunto de dados fornecido; e
